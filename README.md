@@ -1,5 +1,5 @@
 # Lab 5 - Starter
-Sean Tran
+Sean Tran,
 Jacob Roner 
 
 # Expose Link:
